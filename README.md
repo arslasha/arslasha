@@ -1,6 +1,4 @@
 ### Hey, I'm Arslan 👋🏽  
-
-I'm a 18-year-old developer based in Russia, and I'm passionate about crafting digital experiences. 
  
 ## 📦 Toolbox
 
