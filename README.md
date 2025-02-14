@@ -2,7 +2,7 @@
  
 ## 📦 Toolbox
 
-**Development:** `C++` `Python`
+**Development:** `C++` `Java` `HTML` `CSS` `JavaScript` `TypeScript` `React`
 
 **Version Control:** `Git` `GitLab`
 
