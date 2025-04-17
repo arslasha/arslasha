@@ -2,11 +2,11 @@
  
 ## 📦 Toolbox
 
-**Development:** `C++` `Java` `HTML` `CSS` `JavaScript` `TypeScript` `React`
+**Development:** `JavaScript` `HTML5` `CSS3` `TypeScript` `React` `Next.js` `SCSS` `Tailwind` `Java`
 
 **Version Control:** `Git` `GitLab`
 
-**OS:** `Mac` `Windows` `UNIX`
+**OS:** `Mac` `Windows` `UNIX` 
 
 ## ✨ Fun Facts 
 
